@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# About me
 
-You can use the [editor on GitHub](https://github.com/sd17spring/portfolio-example/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a second year student at [Olin College of Engineering](http://www.olin.edu/) studying software engineering. I am interested in making humans multi-planetary, enabling interstellar travel, developing personal AI better than JARVIS, and speculating about future Marvel cinematic universe. I have previously worked at Google, Facebook, Dropbox, SpaceX, and NASA JPL.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website is where I put most up-to-date information about what I am doing, but you can check out my [Resume](#) and [LinkedIn Page](#).
 
-### Markdown
+# Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Gene Finder 
+#### [Source Code](#)
+I wrote a script that performs *ab initio gene finding*, a process of detecting genes in arbitrary DNA sequences. I also wrote an interface connecting my program to an internet database of protein information called Protein BLAST.
 
-```markdown
-Syntax highlighted code block
+### Computational Art
+#### [Source Code](#)
+I created a program that generates a random art based on recursive computation of elementary functions.
 
-# Header 1
-## Header 2
-### Header 3
+### Text Mining
+#### [Source Code](#)
+I created a program that automatically extracts a large number of tweets based on topics and runs a sentiment analysis to guage people's interest in the chosen topics.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sd17spring/portfolio-example/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Interactive Visualization
+#### [Source Code](#), [Project Website](#)
+Working with 3 other students, I created a program that visually represents the population of cats in different states. My specific role in this project includes data collection through Google Cat Population API, data processing using Pandas, and designing interface between data collection script and visualization script.
